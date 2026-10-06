@@ -4,6 +4,7 @@
 
 # -- Tous les exercices données sont corrigés;
 # -- Pour eviter de se perdre decommenter un à un puis lancer----#
+# --- analyser les resultat via le fichier pdf
 # ---------------------------------------------------------------#
  
 
